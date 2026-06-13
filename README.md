@@ -40,7 +40,8 @@ A simple web application built using HTML, CSS, and JavaScript that checks wheth
 
 <img width="577" height="447" alt="image" src="https://github.com/user-attachments/assets/3760e89a-e23c-49f5-8ef4-7b3085f39f4e" />
 
-![Uploading image.png…]()
+<img width="625" height="482" alt="image" src="https://github.com/user-attachments/assets/c37eda0e-b1fa-406c-a6bf-b4532bdf91ee" />
+
 
 
 
